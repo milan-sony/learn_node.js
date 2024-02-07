@@ -1,3 +1,7 @@
+## Day 1/15
+
+📅 07/02/2024 | Things I have learned/ done
+
 ### JavaScript (Brush Up)
 
 - Introduction to JS
