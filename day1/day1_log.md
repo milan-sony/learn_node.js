@@ -1,0 +1,10 @@
+- Variables (var, let, const)
+- Operators  
+- Datatypes
+- Conditional statements (if, else, else if)     
+- Loops
+- Functions
+- Array
+- Objects
+- Date
+- Exception handling
