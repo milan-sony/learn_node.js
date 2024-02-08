@@ -15,3 +15,7 @@ ECMAScript 2015 is also known as ES6 and ECMAScript 6. ECMAScript 2015 was the s
 - Default parameters
     
     [Default parameters - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
+    
+- Arrow function
+    
+    [JavaScript Arrow Function](https://www.w3schools.com/js/js_arrow_function.asp)
