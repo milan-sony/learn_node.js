@@ -6,4 +6,4 @@ Challenge started date: 📅 07/02/2001
 
 ### ⏳ Timeline
 
-- <a href="https://github.com/milan-sony/learn_node.js/blob/master/day1/day1_log.md">Day 1</a>
+- <a href="./day1/day1_log.md">Day 1</a>
