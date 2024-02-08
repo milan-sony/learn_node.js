@@ -2,8 +2,8 @@
 
 Challenge started date: 📅 07/02/2001  
 
-# 🎯 Major objective: #LearnNodeJs
+## 🎯 Major objective: #LearnNodeJs
 
-### Read my notion page for more updates
+### ⏳ Timeline
 
-<a href = "https://www.notion.so/milansony/15DaysOfCode-bed90e2a7ecc4baf999709befd32c253?pvs=4">Click Here</a>
+- <a href="https://github.com/milan-sony/learn_node.js/blob/master/day1/day1_log.md">Day 1</a>
