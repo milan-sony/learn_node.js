@@ -19,3 +19,11 @@ ECMAScript 2015 is also known as ES6 and ECMAScript 6. ECMAScript 2015 was the s
 - Arrow function
     
     [JavaScript Arrow Function](https://www.w3schools.com/js/js_arrow_function.asp)
+    
+- Callback
+    
+    [JavaScript Callbacks](https://www.w3schools.com/js/js_callback.asp)
+    
+- Module import (require())
+    
+    [JavaScript Require – How to Use the require() Function in JS](https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/)
