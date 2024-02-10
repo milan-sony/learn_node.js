@@ -4,7 +4,7 @@
 
 ### Server creation (Node JS)
 
-```js
+```jsx
 var http = require('http')
 
 // http.createServer(server).listen(7000)
@@ -21,3 +21,5 @@ http.createServer(function (req, res){
     res.end()
 }).listen(7000)
 ```
+
+### Server creation and serving an HTML file as response
