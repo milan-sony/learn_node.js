@@ -3,6 +3,11 @@ const path = require('path')
 
 const app = express();
 
+app.use(function(req, res, next){
+    console.log('Middleware')
+    next()
+})
+
 app.get('/', function(req, res){
     res.send('Hello World!')
 })
