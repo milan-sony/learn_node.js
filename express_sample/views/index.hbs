@@ -1,7 +1,23 @@
+{{!-- for loop in hbs --}}
+
 {{#each values}}
 
 <h3>{{@index}} . {{this}}</h3>
 
 {{/each}}
 
+{{!-- display inner object value --}}
+
 <p>{{person.comments.comment}}</p>
+
+{{!-- if condition --}}
+
+{{#if adminPerson.admin}}
+
+<h1>This is admin</h1>
+
+{{else}}
+
+<h1>This is not admin</h1>
+
+{{/if}}

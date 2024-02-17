@@ -8,7 +8,9 @@ router.get('/', function(req, res, next) {
 
   const person = {name: 'milan', comments:{comment: 'my comment', date: '17/02/2024'}}
 
-  res.render('index', {values, person});
+  const adminPerson = {name: 'milan', admin: true}
+
+  res.render('index', {values, person, adminPerson});
 });
 
 module.exports = router;
