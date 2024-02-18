@@ -72,7 +72,26 @@ app.listen(7000, function(){
     ```jsx
     npm start
     ```
-    
+
+### Files structure
+
+- bin
+    - www
+- node modules
+- public
+    - images
+    - javascripts
+    - stylesheets
+- routes
+    - index.js
+    - user.js
+- views
+    - error.hbs
+    - index.hds
+    - layout.hbs
+- app.js
+- package.json
+- package-lock.json
 
 ### Express and express handlebars
 
@@ -191,14 +210,3 @@ index.hbs
     
     {{/with}}
     ```
-    
-
-### Files structure
-
-- bin
-- public
-- routes
-- views
-- app.js
-- package.json
-- package-lock.json
