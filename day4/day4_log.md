@@ -47,20 +47,32 @@ app.listen(7000, function(){
 
 ### Express and express generator
 
-- Files structure
-    - bin
-    - public
-    - routes
-    - views
-    - app.js
-    - package.json
-    - package-lock.json
+### To create an express project
 
-- To start the server
-
-```jsx
-npm start
-```
+1. Create an express project
+    
+    ```jsx
+    npx express-generator --hbs
+    ```
+    
+2. Then install all the packages (this will install all the packages and ‘node_modules’ folder will be created)
+    
+    ```jsx
+    npm install
+    ```
+    
+3. If any vulnerabilities found on the installed packages type
+    
+    ```jsx
+    npm audit fix --force
+    ```
+    
+4. Finally start the server
+    
+    ```jsx
+    npm start
+    ```
+    
 
 ### Express and express handlebars
 
@@ -179,3 +191,14 @@ index.hbs
     
     {{/with}}
     ```
+    
+
+### Files structure
+
+- bin
+- public
+- routes
+- views
+- app.js
+- package.json
+- package-lock.json
