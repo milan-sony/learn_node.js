@@ -2,10 +2,8 @@
 
 📅 18/02/2024 | Things I have learned/ done.
 
-#### user signup with express and mongodb
-
+- user signup with express and mongodb
 <a href="../user_signup/">Click Here for code</a>
-
     - 1st make an express project
     - Then install all the packages `npm install`
     - `npm start`
