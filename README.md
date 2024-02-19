@@ -27,3 +27,4 @@ Challenge started date: 📅 07/02/2001
 - <a href="./day3/day3_log.md">Day 3</a>
 - <a href="./day4/day4_log.md">Day 4</a>
 - <a href="./day5/day5_log.md">Day 5</a>
+- <a href="./day6/day6_log.md">Day 6</a>
