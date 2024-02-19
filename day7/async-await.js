@@ -22,6 +22,8 @@ function getPhone(){
 
 async function getUser(){
     let name = await getName()
+    console.log(phone)
+    let phone = await getPhone()
     console.log(name)
 }
 
