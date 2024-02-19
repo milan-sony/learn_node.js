@@ -14,14 +14,14 @@ function div(num1, num2, callback){
     callback(num1/num2)
 }
 
-add(10, 20, (sum, err) =>{
+add(10, 20, (sum, err) => {
     if(err){
         console.log("First number is ZERO")
     }else{
         console.log(sum)
-        multiply(sum, sum, (product) =>{
+        multiply(sum, sum, (product) => {
             console.log(product)
-            div(product, 10, (result) =>{
+            div(product, 10, (result) => {
                 console.log(result)
             })
         })
