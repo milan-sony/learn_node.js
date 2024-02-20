@@ -30,5 +30,5 @@ Challenge started date: 📅 07/02/2001
 - <a href="./day6/day6_log.md">Day 6</a>
 - <a href="./day7/day7_log.md">Day 7</a>
 
-##### Project
+Day 8: Project
 - <a href="https://github.com/milan-sony/e-commerce_application">E-Commerce Application</a>
